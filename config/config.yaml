@@ -1,0 +1,14 @@
+addr: ":1935"
+readBufSize: 8192
+localChunkSize: 60000
+
+handShakeTimeout: 2s
+playorPublishTimeout: 2s
+
+log:
+  path: logs/error.log
+  level: info
+  rotationTime: 24h
+  age: 7
+
+enablePprof: false
