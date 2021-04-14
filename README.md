@@ -32,8 +32,8 @@ Contributions and pull requests are warmly welcome!
 
 Optional tools: 
 
-	- OBS
-	- ffmpeg
+- OBS
+- ffmpeg
 
 
 
