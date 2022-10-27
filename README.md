@@ -1,5 +1,7 @@
 ## fastlive
 
+[![Go](https://github.com/xly0713/fastlive/actions/workflows/go.yml/badge.svg)](https://github.com/xly0713/fastlive/actions/workflows/go.yml)
+
 RTMP server implementation for GO.  
 
 Contributions and pull requests are warmly welcome! 
